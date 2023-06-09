@@ -1,0 +1,19 @@
+
+    img{
+        background-color: gold;
+        width: 20%;
+    }
+  body{
+      background-color: rgb(181, 190, 41);
+      
+  }
+  hr{
+      border-style:dotted none none;
+      border-color: rgb(212, 11, 11);
+      border-width:5px;
+      width:30%;
+  }
+
+  h3{background-color: rgb(150, 37, 37);}
+ .siva:hover{background-color: red; width: 20%;}
+ .add{width: 30%; padding: 5%; background-color: blueviolet;}
